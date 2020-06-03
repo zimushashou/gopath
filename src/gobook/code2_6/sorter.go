@@ -28,6 +28,8 @@ func readValue(infile string) (values []int, err error) {
 			if err1 != io.EOF {
 				 err = err1
 			}
+			fmt.Println("err1111 : ", err1)
+			fmt.Println("err 3333 : ", err)
 			break
 		}
 		if prefix {
@@ -44,6 +46,20 @@ func readValue(infile string) (values []int, err error) {
 		values = append(values, value)
 	}
 	return values, nil
+}
+// write to out file
+func writeValues(values []int, outFile string) error {
+	file, err := os.Create(outFile)
+	if err != nil {
+		fmt.Printf("create out file(%s) failed", outFile)
+		return err
+	}
+	defer file.Close()		// open success close file
+	for _, val := range values {
+		str := strconv.Itoa(val)
+		file.WriteString(str + "\n")
+	}
+	return nil
 }
 func main()  {
 	// input args parse
