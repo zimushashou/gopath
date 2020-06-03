@@ -1,6 +1,67 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/.." vcs="Git" />
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/HelloApp-API-Server" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/github.com/Luxurioust/excelize" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/github.com/Sirupsen/logrus" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/github.com/afocus/captcha" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/github.com/astaxie/beego" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/github.com/axgle/mahonia" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/github.com/beego/bee" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/github.com/chzyer/readline" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/github.com/garyburd/redigo" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/github.com/go-log/log" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/github.com/go-sql-driver/mysql" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/github.com/golang/freetype" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/github.com/golang/protobuf" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/github.com/gomodule/redigo" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/github.com/gorilla/handlers" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/github.com/gorilla/mux" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/github.com/gorilla/websocket" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/github.com/hashicorp/consul" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/github.com/hyperledger/fabric" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/github.com/jmoiron/sqlx" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/github.com/julienschmidt/httprouter" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/github.com/micro/blog" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/github.com/micro/cli" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/github.com/micro/docs" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/github.com/micro/enterprise" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/github.com/micro/examples" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/github.com/micro/go-api" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/github.com/micro/go-bot" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/github.com/micro/go-config" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/github.com/micro/go-grpc" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/github.com/micro/go-log" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/github.com/micro/go-micro" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/github.com/micro/go-plugins" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/github.com/micro/go-rcache" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/github.com/micro/go-run" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/github.com/micro/go-web" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/github.com/micro/grpc-go" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/github.com/micro/hipchat" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/github.com/micro/kubernetes" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/github.com/micro/mdns" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/github.com/micro/micro" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/github.com/micro/misc" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/github.com/micro/protobuf" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/github.com/micro/protoc-gen-micro" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/github.com/micro/tutorials" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/github.com/micro/util" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/github.com/mitchellh/hashstructure" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/github.com/mohae/deepcopy" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/github.com/nlopes/slack" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/github.com/pborman/uuid" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/github.com/pkg/errors" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/github.com/serenize/snaker" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/github.com/shiena/ansicolor" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/github.com/tealeg/xlsx" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/github.com/weilaihui/fdfs_client" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/github.com/weilaihui/goconfig" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/github.com/xlab/treeprint" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/golang.org/x/net" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/golang.org/x/sys" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/golang.org/x/text" vcs="Git" />
   </component>
 </project>
